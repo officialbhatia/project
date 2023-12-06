@@ -1,3 +1,7 @@
 file create in local system.
 
+<<<<<<< HEAD
 changes made using local system.
+=======
+Changes made using git edit.
+>>>>>>> 28648bb0aa2d38b7962836aa6752edcd1d88a090
